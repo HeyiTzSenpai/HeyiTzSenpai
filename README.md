@@ -14,6 +14,14 @@ Currently writing more YAML than I care to admit.
 
 ### Currently building
 
+#### 奏 [Kanade](https://kanade.jhinx.dev) — a Windows desk for Claude Code
+
+Kanade is a desktop workstation for coding-agent workflows: multi-account lanes,
+a chat view above the terminal, local-first session observability, provider
+health checks, and docs for the rough edges that matter.
+
+→ **[Demo](https://kanade.jhinx.dev)** · **[Docs](https://kanade-docs.jhinx.dev)**
+
 #### 🍣 [Omakase](https://github.com/HeyiTzSenpai/omakase) — an anime sommelier
 
 Bring your own anime list, point it at any LLM (local or cloud), and get a hand-picked tasting menu of recommendations based on what you actually love — not what's trending.
