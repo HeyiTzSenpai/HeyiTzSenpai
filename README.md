@@ -30,6 +30,15 @@ Supports 9 LLM backends out of the box: Ollama, LM Studio, OpenAI, Anthropic, Ge
 
 → **[Try the live demo](https://omakase.jhinx.dev)** · **[Source](https://github.com/HeyiTzSenpai/omakase)**
 
+#### Live previews
+
+| Project | Preview | Shape |
+| --- | --- | --- |
+| **Vibe** | [vibe.jhinx.dev](https://vibe.jhinx.dev) | YouTube Music catalog and rediscovery dashboard |
+| **Forge** | [forge.jhinx.dev](https://forge.jhinx.dev) | Local AI work-loop dashboard: plan a task, patch a branch, run checks, review the result |
+| **Rally** | [rally.jhinx.dev](https://rally.jhinx.dev) | Friend-group activity planning with RSVPs, polls, comments, and calendar feeds |
+| **Roam** | [roam.jhinx.dev](https://roam.jhinx.dev) | Group trip workspace for shared itineraries, expenses, packing, weather, and planning activity |
+
 ---
 
 ### Around the web
