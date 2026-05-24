@@ -2,7 +2,7 @@
 
 <p align="left">
 Building at the intersection of <b>anime</b>, <b>homelabs</b>, and <b>LLMs</b>.<br/>
-Currently writing more YAML than I care to admit.
+Currently turning local AI workflows into tools I can actually trust.
 </p>
 
 <p align="left">
@@ -14,13 +14,23 @@ Currently writing more YAML than I care to admit.
 
 ### Currently building
 
-#### 奏 [Kanade](https://kanade.jhinx.dev) — a Windows desk for Claude Code
+#### 奏 [Kanade](https://kanade.jhinx.dev) — a Windows desk for AI coding work
 
-Kanade is a desktop workstation for coding-agent workflows: multi-account lanes,
-a chat view above the terminal, local-first session observability, provider
-health checks, and docs for the rough edges that matter.
+Kanade is a private Windows workstation for serious coding-agent sessions: chat
+above terminal, provider lanes, local memory, Mission Control, Forge run
+handoff, Discord bridge experiments, update-channel proof, and the boring
+diagnostics that make a desktop tool maintainable.
 
 → **[Demo](https://kanade.jhinx.dev)** · **[Docs](https://kanade-docs.jhinx.dev)**
+
+#### 🔥 [Forge](https://forge.jhinx.dev) — a bounded AI work loop
+
+Forge turns one concrete project goal into a reviewable work pass: plan the
+task, patch an iteration branch, run the gates, review the diff, and preserve
+the evidence. The real dashboard stays local/private; the public page is the
+v3.2 product pitch.
+
+→ **[Preview](https://forge.jhinx.dev)**
 
 #### 🍣 [Omakase](https://github.com/HeyiTzSenpai/omakase) — an anime sommelier
 
@@ -35,7 +45,7 @@ Supports 9 LLM backends out of the box: Ollama, LM Studio, OpenAI, Anthropic, Ge
 | Project | Preview | Shape |
 | --- | --- | --- |
 | **Vibe** | [vibe.jhinx.dev](https://vibe.jhinx.dev) | YouTube Music catalog and rediscovery dashboard |
-| **Forge** | [forge.jhinx.dev](https://forge.jhinx.dev) | Local AI work-loop dashboard: plan a task, patch a branch, run checks, review the result |
+| **Forge** | [forge.jhinx.dev](https://forge.jhinx.dev) | Static v3.2 pitch for the local/private AI work-loop dashboard |
 | **Rally** | [rally.jhinx.dev](https://rally.jhinx.dev) | Friend-group activity planning with RSVPs, polls, comments, and calendar feeds |
 | **Roam** | [roam.jhinx.dev](https://roam.jhinx.dev) | Group trip workspace for shared itineraries, expenses, packing, weather, and planning activity |
 
@@ -45,7 +55,7 @@ Supports 9 LLM backends out of the box: Ollama, LM Studio, OpenAI, Anthropic, Ge
 
 | Where | What |
 | --- | --- |
-| [**jhinx.dev**](https://jhinx.dev) | Homelab service catalog + project journal |
+| [**jhinx.dev**](https://jhinx.dev) | Homelab service catalog, project journal, and current workbench |
 | [**AniList**](https://anilist.co/user/HeyiTzSenpai) | What I'm actually watching |
 | [**GitHub**](https://github.com/HeyiTzSenpai) | You're here |
 
@@ -53,4 +63,4 @@ Supports 9 LLM backends out of the box: Ollama, LM Studio, OpenAI, Anthropic, Ge
 
 ### Stack I lean on
 
-`Python` · `TypeScript` · `Astro` · `FastAPI` · `Docker` · `Proxmox` · `LLMs`
+`Python` · `TypeScript` · `Astro` · `SvelteKit` · `FastAPI` · `Tauri` · `Docker` · `Proxmox` · `LLMs`
