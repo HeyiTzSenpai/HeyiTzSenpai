@@ -1,8 +1,8 @@
 <h2 align="left">こんにちは — I'm Yas</h2>
 
 <p align="left">
-Building at the intersection of <b>anime</b>, <b>homelabs</b>, and <b>LLMs</b>.<br/>
-Currently turning local AI workflows into private tools with real verification, durable docs, and fewer vibes-only claims.
+I build private, self-hosted software around <b>AI agents</b>, <b>homelabs</b>, and the things I actually care about—anime, travel, music, and making useful objects.<br/>
+My current obsession is making agentic work calm enough to operate and strict enough to trust: bounded automation, durable evidence, rollback, and proof on the real target.
 </p>
 
 <p align="left">
@@ -12,75 +12,57 @@ Currently turning local AI workflows into private tools with real verification, 
 
 ---
 
-### Current workbench
+### North Star Lab — the current focus
 
-#### 奏 [Kanade](https://kanade.jhinx.dev) — Windows desk for AI coding work
+[**North Star Lab**](https://jhinx.dev/projects/northstar-lab) is my private command center for work that outlives a chat window. It keeps today's priorities, operator decisions, active work, project memory, and recovery evidence in one protected place.
 
-Private Windows workstation for serious coding-agent sessions: chat above
-terminal, provider lanes, MCP/skills, local memory, codegraph, schedules,
-Mission Control, Forge handoff, Discord bridge experiments, and the release
-diagnostics that make a desktop tool maintainable. Current source is in the
-v0.13 closed-alpha readiness lane.
+What is live now:
 
-→ **[Demo](https://kanade.jhinx.dev)** · **[Docs](https://kanade-docs.jhinx.dev)**
+- A quiet Operator home for today's work, material decisions, and exact source/live status.
+- **Ask North Star**, which answers operational questions from live state and can hand durable text conversations to an informed head agent.
+- Policy-gated task creation: private work can be queued only when access, source, runner, rollback, and usage-reserve checks pass.
+- Receipt-backed missions, approvals, runs, retries, archives, and rollback rehearsals instead of progress that exists only in a transcript.
+- A hidden continuation runner that can resume bounded Codex work while keeping prompts and sensitive evidence off ordinary dashboard surfaces.
+- A real weekly usage meter with a saved personal reserve, so automation fails closed before it spends the capacity I want to keep.
 
-#### Forge — bounded AI work loop
+The operating app stays private. The public case study explains the product without exposing its entry point or internal infrastructure. The next active lane is bounded single-picture input; text chat is already live, while image upload remains explicitly in progress.
 
-Forge turns one concrete project goal into a reviewable work pass: plan the
-task, patch an iteration branch, run the gates, review the diff, and preserve
-the evidence. The private v6 dashboard is Next.js now, with board health,
-worker cards, queue/run visibility, CodeRabbit loops, and Discord-aware handoff.
-
-→ **[Preview](https://forge.jhinx.dev)**
-
-#### [Omakase](https://github.com/HeyiTzSenpai/omakase) — anime sommelier
-
-Bring your own anime list, point it at any LLM, and get a hand-picked tasting
-menu based on what you actually love, not what's trending. The public demo is
-stable BYOK recommendations; the private Plus lane adds queueing, AniList plan
-cleanup, Real-Debrid tracking, and deeper Pro model runs.
-
-Supports 9 LLM backends out of the box: Ollama, LM Studio, OpenAI, Anthropic, Gemini, DeepSeek, OpenRouter, Groq, Together.
-
-→ **[Try the live demo](https://omakase.jhinx.dev)** · **[Source](https://github.com/HeyiTzSenpai/omakase)**
-
-#### Generation pipeline family
-
-`imgen`, `vidgen`, `voicegen`, `soundgen`, `notebookgen`, and `webgen` are my
-local media/site-building CLIs. They route image, video, voice, SFX, NotebookLM,
-and whole-site workflows through cost ledgers, safety checks, provider matrices,
-and real motion/audio verification. Recent lanes use Google Vertex Imagen/Veo
-and Google Cloud TTS when the credit-backed path is configured.
-
-#### Private apps in motion
-
-Flow is a project-aware watch/read/listen feed. Roam is a private group-trip
-planner now live at v0.5. Mold is a conversational CAD studio for 3D-print
-iteration. Vibe is a read-only YouTube Music catalog. Shirase handles
-approval-gated Discord notifications. Cherry Studio Bridge is the fallback kit
-for DashScope + MCP + homelab knowledge.
-
-#### Live previews
-
-| Project | Preview | Shape |
-| --- | --- | --- |
-| **Vibe** | [vibe.jhinx.dev](https://vibe.jhinx.dev) | YouTube Music catalog and rediscovery dashboard |
-| **Forge** | [forge.jhinx.dev](https://forge.jhinx.dev) | Static pitch for the local/private AI work-loop dashboard |
-| **Rally** | [rally.jhinx.dev](https://rally.jhinx.dev) | Friend-group activity planning with RSVPs, polls, comments, and calendar feeds |
-| **Roam** | [roam.jhinx.dev](https://roam.jhinx.dev) | Static preview for the private live Roam app |
+→ **[Read the public case study](https://jhinx.dev/projects/northstar-lab)**
 
 ---
+
+### Selected builds
+
+| Project | What it does | Current shape |
+| --- | --- | --- |
+| **[Omakase](https://github.com/HeyiTzSenpai/omakase)** | An LLM anime sommelier that combines a written taste profile with scored watch history to make a personal tasting menu. | Public, MIT-licensed BYOK app. A private Plus lane adds AniList planning, recommendation feedback, and guarded download automation. **[Live demo](https://omakase.jhinx.dev)** |
+| **[Kanade](https://kanade.jhinx.dev)** | A Windows workstation for serious coding-agent sessions: chat, terminal, provider lanes, memory, skills, diagnostics, and a guarded Forge cockpit. | Private maintainer release at v0.14.1, verified through the installed app and its update channel. **[Docs](https://kanade-docs.jhinx.dev)** |
+| **[Forge](https://forge.jhinx.dev)** | A bounded plan → implement → gate → review loop with isolated worktrees, cost ceilings, queues, task boards, previews, and evidence-backed handoff. | Private v8.1.0 release; its guarded Kanade bridge has completed a real docs-only task. Public link is a product preview, not the private dashboard. |
+| **[Roam](https://jhinx.dev/projects/roam)** | A private group-trip planner that moves from destination decisions into shared itineraries and a day-of Trip Companion. | Crew status, meetup points, RSVPs, latest-only location sharing, and per-trip chat are live. Visible web-push notification/click proof is still open. |
+
+### Also in the lab
+
+- **Hike King** — an owner-DM Discord hiking planner that drafts weather-aware, copyable trip announcements with DeepSeek and Open-Meteo. The AI/weather path works; the final real DM → preview → reaction-approval proof remains.
+- **Mold** — a conversational CAD and 3D-print iteration studio that preserves source, STL, measurements, provenance, and physical feedback instead of losing the design trail inside chat.
+- **Flow + Vibe** — private discovery tools for a project-aware watch/read feed and a read-only YouTube Music archive.
+- **Generation toolchain** — `imgen`, `vidgen`, `voicegen`, `soundgen`, `notebookgen`, and `webgen`: composable CLIs with provider routing, cost ledgers, safety checks, and media-specific verification.
+
+---
+
+### How I like to build
+
+- **Private by default.** Public surfaces are deliberate, sanitized, and smaller than the systems behind them.
+- **Bounded autonomy.** Budgets, scopes, kill switches, approval gates, and rollback are product features.
+- **Evidence over theatre.** Tests matter, but the installed app, protected browser, live service, or generated media has to work on the real target.
+- **Durable memory.** Current state, receipts, and continuation notes should survive the session that created them.
 
 ### Around the web
 
 | Where | What |
 | --- | --- |
-| [**jhinx.dev**](https://jhinx.dev) | Homelab service catalog, project journal, and current workbench |
-| [**AniList**](https://anilist.co/user/HeyiTzSenpai) | What I'm actually watching |
-| [**GitHub**](https://github.com/HeyiTzSenpai) | You're here |
+| [**jhinx.dev**](https://jhinx.dev) | Public project case studies, homelab catalog, and what I am working on now |
+| [**Omakase**](https://github.com/HeyiTzSenpai/omakase) | My public open-source project and live BYOK anime recommender |
+| [**AniList**](https://anilist.co/user/HeyiTzSenpai) | What I am actually watching |
+| [**GitHub**](https://github.com/HeyiTzSenpai) | You are here |
 
----
-
-### Stack I lean on
-
-`Python` · `TypeScript` · `Next.js` · `Astro` · `SvelteKit` · `FastAPI` · `Tauri` · `Docker` · `Proxmox` · `LLMs`
+`Python` · `TypeScript` · `Next.js` · `React` · `FastAPI` · `Tauri` · `Docker` · `Proxmox` · `LLMs`
