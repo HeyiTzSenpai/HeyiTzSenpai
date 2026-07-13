@@ -33,12 +33,10 @@ The operating app stays private. The public case study explains the product with
 
 ### Selected builds
 
-| Project | What it does | Current shape |
-| --- | --- | --- |
-| **[Omakase](https://github.com/HeyiTzSenpai/omakase)** | An LLM anime sommelier that combines a written taste profile with scored watch history to make a personal tasting menu. | Public, MIT-licensed BYOK app. A private Plus lane adds AniList planning, recommendation feedback, and guarded download automation. **[Live demo](https://omakase.jhinx.dev)** |
-| **[Kanade](https://kanade.jhinx.dev)** | A Windows workstation for serious coding-agent sessions: chat, terminal, provider lanes, memory, skills, diagnostics, and a guarded Forge cockpit. | Private maintainer release at v0.14.1, verified through the installed app and its update channel. **[Docs](https://kanade-docs.jhinx.dev)** |
-| **[Forge](https://forge.jhinx.dev)** | A bounded plan → implement → gate → review loop with isolated worktrees, cost ceilings, queues, task boards, previews, and evidence-backed handoff. | Private v8.1.0 release; its guarded Kanade bridge has completed a real docs-only task. Public link is a product preview, not the private dashboard. |
-| **[Roam](https://jhinx.dev/projects/roam)** | A private group-trip planner that moves from destination decisions into shared itineraries and a day-of Trip Companion. | Crew status, meetup points, RSVPs, latest-only location sharing, and per-trip chat are live. Visible web-push notification/click proof is still open. |
+- **[Omakase](https://github.com/HeyiTzSenpai/omakase)** — an LLM anime sommelier that combines a written taste profile with scored watch history to make a personal tasting menu. The public MIT-licensed app is BYOK; a private Plus lane adds AniList planning, recommendation feedback, and guarded download automation. **[Try the live demo](https://omakase.jhinx.dev).**
+- **[Kanade](https://kanade.jhinx.dev)** — a Windows workstation for serious coding-agent sessions: chat, terminal, provider lanes, memory, skills, diagnostics, and a guarded Forge cockpit. The private v0.14.1 maintainer release is verified through the installed app and its update channel. **[Read the docs](https://kanade-docs.jhinx.dev).**
+- **[Forge](https://forge.jhinx.dev)** — a bounded plan → implement → gate → review loop with isolated worktrees, cost ceilings, queues, task boards, previews, and evidence-backed handoff. The private v8.1.0 release has completed a real docs-only task through its guarded Kanade bridge; the link is a public product preview, not the private dashboard.
+- **[Roam](https://jhinx.dev/projects/roam)** — a private group-trip planner that moves from destination decisions into shared itineraries and a day-of Trip Companion. Crew status, meetup points, RSVPs, latest-only location sharing, and per-trip chat are live; visible web-push notification/click proof is still open.
 
 ### Also in the lab
 
@@ -58,11 +56,9 @@ The operating app stays private. The public case study explains the product with
 
 ### Around the web
 
-| Where | What |
-| --- | --- |
-| [**jhinx.dev**](https://jhinx.dev) | Public project case studies, homelab catalog, and what I am working on now |
-| [**Omakase**](https://github.com/HeyiTzSenpai/omakase) | My public open-source project and live BYOK anime recommender |
-| [**AniList**](https://anilist.co/user/HeyiTzSenpai) | What I am actually watching |
-| [**GitHub**](https://github.com/HeyiTzSenpai) | You are here |
+- [**jhinx.dev**](https://jhinx.dev) — public project case studies, homelab catalog, and what I am working on now.
+- [**Omakase**](https://github.com/HeyiTzSenpai/omakase) — my public open-source project and live BYOK anime recommender.
+- [**AniList**](https://anilist.co/user/HeyiTzSenpai) — what I am actually watching.
+- [**GitHub**](https://github.com/HeyiTzSenpai) — you are here.
 
 `Python` · `TypeScript` · `Next.js` · `React` · `FastAPI` · `Tauri` · `Docker` · `Proxmox` · `LLMs`
