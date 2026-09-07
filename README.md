@@ -1,36 +1,33 @@
-<h2 align="left">こんにちは, I'm Yas</h2>
+# Hi, I'm Jhinx 👋
 
-I build private, self-hosted software around **AI agents**, **homelabs**, and the things I actually care about: anime, travel, music, and making useful objects. My favorite systems feel calm to operate and strict enough to trust: bounded automation, durable memory, rollback, and proof on the real target.
+Also Yas. A creator and tinkerer in Montréal, making stories for YouTube and the tools that help bring them to life.
 
-<p align="left">
-  <a href="https://jhinx.dev"><img alt="jhinx.dev" src="https://img.shields.io/badge/jhinx.dev-7C3AED?style=for-the-badge&logo=astro&logoColor=white&labelColor=14092A"></a>
-  <a href="https://anilist.co/user/HeyiTzSenpai"><img alt="AniList" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white"></a>
-</p>
+**Some things only exist if you build them.**
 
-### Now
+[My corner of the internet](https://jhinx.dev) · [Stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Now](https://jhinx.dev/now)
 
-My current focus is **[North Star Lab](https://jhinx.dev/projects/northstar-lab)**, a private command system for a self-hosted AI operator. It keeps projects, scheduled work, human decisions, recovery evidence, and the next useful action connected. The operating app stays private; the [public preview](https://northstar-preview.jhinx.dev) tells the product story and the [documentation](https://northstar-docs.jhinx.dev) explains how the system works.
+## My current chapter
 
-### Recently
+Most of my creative energy goes into two YouTube channels:
 
-- **Published:** North Star now has a public preview and a searchable documentation site while the operator console stays protected.
-- **Installed:** Hush v0.3 is guarding the Windows microphone locally while a stricter fail-closed routing path remains in testing.
-- **Testing:** Kira, a private voice assistant, passed automated audio and privacy gates; natural room-level acceptance is still in progress.
+- **[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** explores history, human error, strange beliefs, and the patterns we keep repeating. I bring research, writing, visual reconstruction, and editing together in documentary episodes and Shorts.
+- **[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** is a dark-fantasy comedy world of impossible quests, unreliable magic, and questionable decisions. I'm developing short adventures with atmosphere, mischief, and characters who have their own ideas about the plan.
 
-### Selected builds
+Making these stories brings together a lot of what I enjoy: learning something unfamiliar, finding a way to explain it, shaping a visual world, and building small tools when the process needs them.
 
-- **[North Star Lab](https://jhinx.dev/projects/northstar-lab):** an evidence-backed command system for long-running projects, scheduled work, guarded execution, recovery, and readable handoff. **[Read the docs](https://northstar-docs.jhinx.dev).**
-- **[Omakase](https://github.com/HeyiTzSenpai/omakase):** an LLM anime sommelier that combines a written taste profile with scored watch history. The public MIT-licensed app is BYOK. **[Try it](https://omakase.jhinx.dev).**
-- **[Kanade](https://kanade.jhinx.dev):** a Windows workstation for serious coding-agent sessions: chat, terminal, provider lanes, memory, skills, diagnostics, and a guarded Forge cockpit. **[Read the docs](https://kanade-docs.jhinx.dev).**
-- **[Forge](https://forge.jhinx.dev):** a bounded plan → implement → gate → review loop with isolated worktrees, queues, previews, and evidence-backed handoff. The link is a public product preview, not the private dashboard.
+## From the workshop
 
-### How I build
+I still enjoy software, AI tools, and self-hosting. Many of these projects are prototypes or paused ideas while the channels take priority. The workshop is a collection of things I've explored and built, with room to return to them.
 
-- **Private by default.** Public surfaces are deliberate, sanitized, and smaller than the systems behind them.
-- **Bounded autonomy.** Budgets, scopes, kill switches, review gates, and rollback are product features.
-- **Evidence over theatre.** Tests matter, but the installed app, live service, or generated media must work on the real target.
-- **Durable memory.** Current state and continuation notes should survive the session that created them.
+- **[jhinx.dev](https://jhinx.dev)**: my newly rebuilt personal site, with an interactive 3D observatory, a home for the channels, a project archive, and a now page for life beyond the workbench.
+- **[North Star Lab](https://jhinx.dev/projects/northstar-lab)**: a private command center that helps long-running projects remember decisions, priorities, and what comes next. [Public documentation](https://northstar-docs.jhinx.dev).
+- **[Omakase](https://github.com/HeyiTzSenpai/omakase)**: an anime recommendation tool that turns watch history and taste notes into a more personal watch menu.
+- **[Omakase Plus](https://jhinx.dev/projects/omakase-plus)**: a private anime-library project focused on reliable media, subtitles, and playback. [Public documentation](https://omakase-plus.jhinx.dev).
 
-**[jhinx.dev](https://jhinx.dev)** · **[North Star docs](https://northstar-docs.jhinx.dev)** · **[AniList](https://anilist.co/user/HeyiTzSenpai)** · **[Omakase](https://github.com/HeyiTzSenpai/omakase)**
+## Beyond the screen
 
-`Python` · `TypeScript` · `Next.js` · `React` · `FastAPI` · `Tauri` · `Docker` · `Proxmox` · `LLMs`
+I'm also back at Concordia, watching anime, listening to music, and tinkering with my homelab. I like useful systems, thoughtful interfaces, and a little mystery in the art around them.
+
+[What I'm up to](https://jhinx.dev/now) · [Homelab](https://jhinx.dev/services) · [AniList](https://anilist.co/user/HeyiTzSenpai)
+
+`Python` · `TypeScript` · `React` · `Next.js` · `Docker` · `Proxmox`
