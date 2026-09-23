@@ -1,6 +1,6 @@
 # Jhinx, after hours.
 
-![An imagined rainlit room with a doorway opening onto a violet sea](assets/after-hours.webp)
+![A painted fantasy observatory with modern creator tools, warm lanterns and a violet city beyond](assets/atelier.webp)
 
 I'm Yas, a creator and tinkerer in Montréal. I make stories, build small tools, and follow interesting ideas a little further than planned.
 
