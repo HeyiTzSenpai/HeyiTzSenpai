@@ -1,32 +1,33 @@
-# Hi, I'm Jhinx 👋
+# Jhinx, after hours.
 
-Also Yas. A creator and tinkerer in Montréal, making stories for YouTube and the tools that help bring them to life.
+![An imagined rainlit room with a doorway opening onto a violet sea](assets/after-hours.webp)
 
-**Some things only exist if you build them.**
+I'm Yas, a creator and tinkerer in Montréal. I make stories, build small tools, and follow interesting ideas a little further than planned.
 
-[My corner of the internet](https://jhinx.dev) · [Stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Now](https://jhinx.dev/now)
+[My corner of the internet](https://jhinx.dev) · [The stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Life lately](https://jhinx.dev/now)
 
-## My current chapter
+## Two channels. Two different worlds.
 
-Most of my creative energy goes into two YouTube channels:
+Most of my creative energy goes into YouTube:
 
-- **[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** explores history, human error, strange beliefs, and the patterns we keep repeating. I bring research, writing, visual reconstruction, and editing together in documentary episodes and Shorts.
-- **[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** is a dark-fantasy comedy world of impossible quests, unreliable magic, and questionable decisions. I'm developing short adventures with atmosphere, mischief, and characters who have their own ideas about the plan.
+**[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** is about history, human error, strange beliefs, and the patterns we keep repeating. I bring research, writing, illustrated scenes, and editing together in documentary stories and Shorts. Lately, I've been revisiting earlier stories with more expressive pictures, clearer openings, and restrained animation.
 
-Making these stories brings together a lot of what I enjoy: learning something unfamiliar, finding a way to explain it, shaping a visual world, and building small tools when the process needs them.
+**[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** follows mage Orrin and warrior Mael through short fantasy comedies. Impossible quests, unreliable magic, questionable decisions. It's a different kind of storytelling, with room for atmosphere, mischief, and a plan that rarely survives contact with the characters.
 
-## From the workshop
+I like the whole process: finding the human question inside a story, shaping its visual world, choosing the sound, and figuring out which details actually earn their place. The tools below grew around that work.
 
-I still enjoy software, AI tools, and self-hosting. Many of these projects are prototypes or paused ideas while the channels take priority. The workshop is a collection of things I've explored and built, with room to return to them.
+## Behind the scenes
 
-- **[jhinx.dev](https://jhinx.dev)**: my newly rebuilt personal site, with an interactive 3D observatory, a home for the channels, a project archive, and a now page for life beyond the workbench.
-- **[North Star Lab](https://jhinx.dev/projects/northstar-lab)**: a private command center that helps long-running projects remember decisions, priorities, and what comes next. [Public documentation](https://northstar-docs.jhinx.dev).
-- **[Omakase](https://github.com/HeyiTzSenpai/omakase)**: an anime recommendation tool that turns watch history and taste notes into a more personal watch menu.
-- **[Omakase Plus](https://jhinx.dev/projects/omakase-plus)**: a private anime-library project focused on reliable media, subtitles, and playback. [Public documentation](https://omakase-plus.jhinx.dev).
+My software archive includes prototypes, older experiments, and tools I still use. These are personal projects with different histories, not a catalogue of products all under active development.
 
-## Beyond the screen
+- **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private creative review desk. It brings video cuts, visual designs, sound choices, and recorded decisions together. A recent improvement keeps music, ambience, and effects playable beside the finished video, so reviewing a cut doesn't mean hunting through folders.
+- **[Omakase Plus](https://jhinx.dev/projects/omakase-plus)** is a private anime-library project with clearer watch progress, optional completion ratings, and checks that distinguish a completed transfer from something ready to watch. [Public documentation](https://omakase-plus.jhinx.dev).
+- **[Omakase](https://github.com/HeyiTzSenpai/omakase)** explores a more personal watch menu, using anime history and taste notes to shape recommendations.
+- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, project notes, current listening rotation, and the person between the projects.
 
-I'm also back at Concordia, watching anime, listening to music, and tinkering with my homelab. I like useful systems, thoughtful interfaces, and a little mystery in the art around them.
+## Off the clock
+
+Anime, music, and the occasional homelab rabbit hole. I enjoy useful systems and thoughtful interfaces, but not everything needs to become a project. Sometimes a song on repeat is enough.
 
 [What I'm up to](https://jhinx.dev/now) · [Homelab](https://jhinx.dev/services) · [AniList](https://anilist.co/user/HeyiTzSenpai)
 
