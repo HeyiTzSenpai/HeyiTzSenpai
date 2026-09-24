@@ -22,6 +22,7 @@ The workshop now focuses on the tools that earn their place in my day. Older exp
 
 - **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private social-media creator hub. Video review, sound, visual designs, channel context and release planning share one home. Creative decisions stay tied to the exact version. [Explore the Studio](https://northstar-preview.jhinx.dev) or [read how it works](https://northstar-docs.jhinx.dev).
 - **[Homepage Dashboard](https://jhinx.dev/projects/homepage-dashboard)** is the personal starting point for creator work, studying, media and the homelab. It organizes the tools I use without turning every private service into a public app.
+- **[Omakase](https://jhinx.dev/projects/omakase) and [Omakase Plus](https://jhinx.dev/projects/omakase-plus)** are tools I still use for anime. Omakase makes a personal recommendation menu with your own model key; Plus is my private library companion. [Try the public counter](https://omakase.jhinx.dev) or [explore the Plus guides](https://omakase-plus.jhinx.dev).
 - **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, current projects, listening rotation and the person between them.
 
 ## Off the clock
