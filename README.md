@@ -18,12 +18,11 @@ I like the whole process: finding the human question inside a story, shaping its
 
 ## Behind the scenes
 
-My software archive includes prototypes, older experiments, and tools I still use. These are personal projects with different histories, not a catalogue of products all under active development.
+The workshop now focuses on the tools that earn their place in my day. Older experiments remain part of the history, without pretending they are all active products.
 
-- **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private creative review desk. It brings video cuts, visual designs, sound choices, and recorded decisions together. A recent improvement keeps music, ambience, and effects playable beside the finished video, so reviewing a cut doesn't mean hunting through folders.
-- **[Omakase Plus](https://jhinx.dev/projects/omakase-plus)** is a private anime-library project with clearer watch progress, optional completion ratings, and checks that distinguish a completed transfer from something ready to watch. [Public documentation](https://omakase-plus.jhinx.dev).
-- **[Omakase](https://github.com/HeyiTzSenpai/omakase)** explores a more personal watch menu, using anime history and taste notes to shape recommendations.
-- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, project notes, current listening rotation, and the person between the projects.
+- **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private social-media creator hub. Video review, sound, visual designs, channel context and release planning share one home. Creative decisions stay tied to the exact version. [Explore the Studio](https://northstar-preview.jhinx.dev) or [read how it works](https://northstar-docs.jhinx.dev).
+- **[Homepage Dashboard](https://jhinx.dev/projects/homepage-dashboard)** is the personal starting point for creator work, studying, media and the homelab. It organizes the tools I use without turning every private service into a public app.
+- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, current projects, listening rotation and the person between them.
 
 ## Off the clock
 
