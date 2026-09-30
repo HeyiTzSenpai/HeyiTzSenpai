@@ -2,39 +2,37 @@
 
 ![A painted fantasy observatory with modern creator tools, warm lanterns and a violet city beyond](assets/atelier.webp)
 
-I'm Yas, a creator and tinkerer in Montréal. I make stories, build small tools, and follow interesting ideas a little further than planned.
+I'm Yas, a developer and creator in Montréal. I build software and agentic AI workflows that turn ideas into useful tools, stories, and interactive experiences.
 
-[My corner of the internet](https://jhinx.dev) · [Jhinx on YouTube](https://www.youtube.com/@JhinxDev) · [The stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Life lately](https://jhinx.dev/now)
+My creative projects are also engineering projects: API integrations, production scripts, review interfaces, and self-hosted services. I use coding agents to extend what I can build, while staying responsible for the direction, the implementation decisions, and the result.
 
-## Two channels. Two different worlds.
+[My website](https://jhinx.dev) · [How I make the stories](https://jhinx.dev/stories#how-i-work) · [The workshop](https://jhinx.dev/projects) · [YouTube](https://www.youtube.com/@JhinxDev)
 
-Most of my creative energy goes into YouTube:
+## How I work with agentic AI
 
-**[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** is about history, human error, strange beliefs, and the patterns we keep repeating. I bring research, writing, illustrated scenes, and editing together in documentary stories and Shorts. Lately, I've been revisiting earlier stories with more expressive pictures, clearer openings, and restrained animation.
+I break an idea into bounded tasks with clear inputs and a way to check the output. Codex and Claude Code help me investigate, implement, test, and iterate. I review changes, connect the pieces, and verify the behavior in a browser or on the running service.
 
-**[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** follows mage Orrin and warrior Mael through short fantasy comedies. Impossible quests, unreliable magic, questionable decisions. It's a different kind of storytelling, with room for atmosphere, mischief, and a plan that rarely survives contact with the characters.
+For creative production, that includes research assistance, scripts, generated media, and code for assembling and checking an edit. Python, FFmpeg, and FFprobe handle repeatable steps; Playwright helps verify browser workflows. Human review still decides whether a claim is supported, a scene works, or a cut is ready to publish.
 
-I like the whole process: finding the human question inside a story, shaping its visual world, choosing the sound, and figuring out which details actually earn their place. The tools below grew around that work.
+The part I find most interesting is making these pieces work together reliably: preserving versions, handling failures, keeping private data private, and making approval explicit. I do not treat an agent saying “done” as the acceptance test.
 
-## Behind the scenes
+## Selected work
 
-The workshop now focuses on the tools that earn their place in my day. Older experiments remain part of the history, without pretending they are all active products.
+- **[North Star Studio](https://jhinx.dev/projects/northstar-lab):** a private creator review app built with Next.js and SQLite. It brings video versions, sound, visual designs, and decisions together, with approvals tied to the version reviewed. [Public preview](https://northstar-preview.jhinx.dev) · [Workflow guide](https://northstar-docs.jhinx.dev).
+- **[Omakase](https://jhinx.dev/projects/omakase):** a Python/FastAPI recommendation app connecting watch history, personal taste, and model-provider APIs. The public counter accepts a visitor's own model key; invited accounts have a separate persistence boundary. [Try it](https://omakase.jhinx.dev).
+- **[The Swordsmith](https://jhinx.dev/projects/swordsmith):** a cinematic web study combining generated stills, Blender models, Three.js, and GSAP. Scroll transitions, keyboard interaction, and reduced motion are part of the experience. [Explore it](https://swordsmith.jhinx.dev).
+- **[jhinx.dev](https://jhinx.dev):** my Next.js, React, and TypeScript portfolio, bringing cinematic artwork and interactive 3D together with readable project notes and motion controls.
 
-- **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private social-media creator hub. Video review, sound, visual designs, channel context and release planning share one home. Creative decisions stay tied to the exact version. [Explore the Studio](https://northstar-preview.jhinx.dev) or [read how it works](https://northstar-docs.jhinx.dev).
-- **[Homepage Dashboard](https://jhinx.dev/projects/homepage-dashboard)** is the personal starting point for creator work, studying, media and the homelab. It organizes the tools I use without turning every private service into a public app.
-- **[Omakase](https://jhinx.dev/projects/omakase) and [Omakase Plus](https://jhinx.dev/projects/omakase-plus)** are tools I still use for anime. Omakase makes a personal recommendation menu with your own model key; Plus is my private library companion. [Try the public counter](https://omakase.jhinx.dev) or [explore the Plus guides](https://omakase-plus.jhinx.dev).
-- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, current projects, listening rotation and the person between them. Its opening travels through nested illustrated worlds, with a 3D compass to explore and controls to pause or use a still image.
+## The creative side of the system
 
-## Fresh from the workshop
+**[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** explores history, human error, and recurring beliefs through documentary stories and Shorts. **[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** follows Orrin and Mael through fantasy comedy.
 
-- **[The Swordsmith](https://swordsmith.jhinx.dev)** turns a character illustration into a cinematic, scroll-driven web study.
-- **[The Studio field guide](https://northstar-docs.jhinx.dev)** offers clear paths for understanding the workspace, following a piece of work, or looking up an answer.
-- **[Omakase's counter](https://omakase.jhinx.dev)** walks through model choice, watch history and taste, while the separate Plus guides explain the private library companion.
+These channels give the tooling a real purpose. Research has to become a coherent story, visual assets need continuity, captions need timing, and each approved cut needs to stay identifiable. The workflow spans separate production tools and human decisions; it is not an unattended channel generator.
 
-## Off the clock
+## Beyond the screen
 
-Anime, music, and the occasional homelab rabbit hole. I enjoy useful systems and thoughtful interfaces, but not everything needs to become a project. Sometimes a song on repeat is enough.
+I also maintain a [homelab](https://jhinx.dev/services) with Docker and Proxmox, where deploying and operating software is part of the learning. Away from the work: university, anime, music, and a song that probably deserves one more repeat.
 
-[What I'm up to](https://jhinx.dev/now) · [Homelab](https://jhinx.dev/services) · [AniList](https://anilist.co/user/HeyiTzSenpai)
+[Life lately](https://jhinx.dev/now) · [AniList](https://anilist.co/user/HeyiTzSenpai)
 
-`Python` · `TypeScript` · `React` · `Next.js` · `Docker` · `Proxmox`
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `SQLite` · `Docker` · `Proxmox`
