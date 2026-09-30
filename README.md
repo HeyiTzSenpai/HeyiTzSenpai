@@ -4,7 +4,7 @@
 
 I'm Yas, a creator and tinkerer in Montréal. I make stories, build small tools, and follow interesting ideas a little further than planned.
 
-[My corner of the internet](https://jhinx.dev) · [The stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Life lately](https://jhinx.dev/now)
+[My corner of the internet](https://jhinx.dev) · [Jhinx on YouTube](https://www.youtube.com/@JhinxDev) · [The stories](https://jhinx.dev/stories) · [The workshop](https://jhinx.dev/projects) · [Life lately](https://jhinx.dev/now)
 
 ## Two channels. Two different worlds.
 
@@ -23,7 +23,13 @@ The workshop now focuses on the tools that earn their place in my day. Older exp
 - **[North Star Studio](https://jhinx.dev/projects/northstar-lab)** is my private social-media creator hub. Video review, sound, visual designs, channel context and release planning share one home. Creative decisions stay tied to the exact version. [Explore the Studio](https://northstar-preview.jhinx.dev) or [read how it works](https://northstar-docs.jhinx.dev).
 - **[Homepage Dashboard](https://jhinx.dev/projects/homepage-dashboard)** is the personal starting point for creator work, studying, media and the homelab. It organizes the tools I use without turning every private service into a public app.
 - **[Omakase](https://jhinx.dev/projects/omakase) and [Omakase Plus](https://jhinx.dev/projects/omakase-plus)** are tools I still use for anime. Omakase makes a personal recommendation menu with your own model key; Plus is my private library companion. [Try the public counter](https://omakase.jhinx.dev) or [explore the Plus guides](https://omakase-plus.jhinx.dev).
-- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, current projects, listening rotation and the person between them.
+- **[jhinx.dev](https://jhinx.dev)** is the visual home for the stories, current projects, listening rotation and the person between them. Its opening travels through nested illustrated worlds, with a 3D compass to explore and controls to pause or use a still image.
+
+## Fresh from the workshop
+
+- **[The Swordsmith](https://swordsmith.jhinx.dev)** turns a character illustration into a cinematic, scroll-driven web study.
+- **[The Studio field guide](https://northstar-docs.jhinx.dev)** offers clear paths for understanding the workspace, following a piece of work, or looking up an answer.
+- **[Omakase's counter](https://omakase.jhinx.dev)** walks through model choice, watch history and taste, while the separate Plus guides explain the private library companion.
 
 ## Off the clock
 
