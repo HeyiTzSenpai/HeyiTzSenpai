@@ -2,36 +2,36 @@
 
 ![A painted fantasy observatory with modern creator tools, warm lanterns and a violet city beyond](assets/atelier.webp)
 
-I'm Yas, a developer and creator in Montréal. I build software and agentic AI workflows that turn ideas into useful tools, stories, and interactive experiences.
+I'm Yas, a developer and designer in Montréal. I make distinctive websites, build useful software, and explore how motion can make an interface feel more considered.
 
-My creative projects are also engineering projects: API integrations, production scripts, review interfaces, and self-hosted services. I use coding agents to extend what I can build, while staying responsible for the direction, the implementation decisions, and the result.
+**[Jhinx Design](https://design.jhinx.dev)** is my web-design practice. I design and build websites for businesses, products, and creative projects, with clear journeys, responsive layouts, and purposeful motion. Based in Montréal, working in English and French.
 
-[My website](https://jhinx.dev) · [How I make the stories](https://jhinx.dev/stories#how-i-work) · [The workshop](https://jhinx.dev/projects) · [YouTube](https://www.youtube.com/@JhinxDev)
+[Explore the design portfolio](https://design.jhinx.dev) · [Tell me about your project](https://design.jhinx.dev/#/contact) · [My personal website](https://jhinx.dev) · [YouTube](https://www.youtube.com/@JhinxDev)
 
-## How I work with agentic AI
+## Websites with a point of view
 
-I break an idea into bounded tasks with clear inputs and a way to check the output. Codex and Claude Code help me investigate, implement, test, and iterate. I review changes, connect the pieces, and verify the behavior in a browser or on the running service.
+The portfolio includes six original concept websites: commerce, creative workflow software, studios, and hospitality. They're working demonstrations of design and frontend interactions, with their simulated shopping, booking, and approval boundaries made clear.
 
-For creative production, that includes research assistance, scripts, generated media, and code for assembling and checking an edit. Python, FFmpeg, and FFprobe handle repeatable steps; Playwright helps verify browser workflows. Human review still decides whether a claim is supported, a scene works, or a cut is ready to publish.
+I pay attention to what happens after the first impression: readable content, keyboard access, phone layouts, reduced-motion preferences, loading performance, and the details of forms and navigation. Hosting setup, handover, and ongoing support are scoped to each project.
 
-The part I find most interesting is making these pieces work together reliably: preserving versions, handling failures, keeping private data private, and making approval explicit. I do not treat an agent saying “done” as the acceptance test.
+Have something in mind? [Send a brief in English or French](https://design.jhinx.dev/#/contact).
 
-## Selected work
+## Selected software and experiments
 
-- **[North Star Studio](https://jhinx.dev/projects/northstar-lab):** a private creator review app built with Next.js and SQLite. It brings video versions, sound, visual designs, and decisions together, with approvals tied to the version reviewed. [Public preview](https://northstar-preview.jhinx.dev) · [Workflow guide](https://northstar-docs.jhinx.dev).
+- **[North Star Studio](https://jhinx.dev/projects/northstar-lab):** a private review app built with Next.js and SQLite. It brings versions, visual work, and decisions together, with approvals tied to the version reviewed. [Public preview](https://northstar-preview.jhinx.dev) · [Workflow guide](https://northstar-docs.jhinx.dev).
 - **[Omakase](https://jhinx.dev/projects/omakase):** a Python/FastAPI recommendation app connecting watch history, personal taste, and model-provider APIs. The public counter accepts a visitor's own model key; invited accounts have a separate persistence boundary. [Try it](https://omakase.jhinx.dev).
-- **[jhinx.dev](https://jhinx.dev):** my Next.js, React, and TypeScript portfolio, bringing cinematic artwork and interactive 3D together with readable project notes and motion controls.
 
-## The creative side of the system
+## How I build
 
-**[Past Patterns](https://www.youtube.com/@PastPatternsArchive)** explores history, human error, and recurring beliefs through documentary stories and Shorts. **[Arcane Domain](https://www.youtube.com/@ArcaneDomainStories)** follows Orrin and Mael through fantasy comedy.
+I use TypeScript, React, Next.js, Python, and tools suited to the work. Codex and Claude Code help me research, implement, test, and iterate. I stay responsible for the design direction, implementation decisions, and final result.
 
-These channels give the tooling a real purpose. Research has to become a coherent story, visual assets need continuity, captions need timing, and each approved cut needs to stay identifiable. The workflow spans separate production tools and human decisions; it is not an unattended channel generator.
+I break work into bounded tasks, review changes, and verify behavior in the browser or on the running service. The aim is reliable work with clear ownership, useful documentation, and an honest account of what has actually been tested.
 
 ## Beyond the screen
 
-I also maintain a [homelab](https://jhinx.dev/services) with Docker and Proxmox, where deploying and operating software is part of the learning. Away from the work: university, anime, music, and a song that probably deserves one more repeat.
+I maintain a [homelab](https://jhinx.dev/services) with Docker and Proxmox, where deploying and operating software is part of the learning. Away from the work: university, anime, music, and a song that probably deserves one more repeat.
 
 [Life lately](https://jhinx.dev/now) · [AniList](https://anilist.co/user/HeyiTzSenpai)
 
-`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `SQLite` · `Docker` · `Proxmox`
+`TypeScript` · `React` · `Next.js` · `Python` · `FastAPI` · `SQLite` · `Docker` · `Proxmox`
+
