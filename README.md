@@ -20,7 +20,6 @@ The part I find most interesting is making these pieces work together reliably: 
 
 - **[North Star Studio](https://jhinx.dev/projects/northstar-lab):** a private creator review app built with Next.js and SQLite. It brings video versions, sound, visual designs, and decisions together, with approvals tied to the version reviewed. [Public preview](https://northstar-preview.jhinx.dev) · [Workflow guide](https://northstar-docs.jhinx.dev).
 - **[Omakase](https://jhinx.dev/projects/omakase):** a Python/FastAPI recommendation app connecting watch history, personal taste, and model-provider APIs. The public counter accepts a visitor's own model key; invited accounts have a separate persistence boundary. [Try it](https://omakase.jhinx.dev).
-- **[The Swordsmith](https://jhinx.dev/projects/swordsmith):** a cinematic web study combining generated stills, Blender models, Three.js, and GSAP. Scroll transitions, keyboard interaction, and reduced motion are part of the experience. [Explore it](https://swordsmith.jhinx.dev).
 - **[jhinx.dev](https://jhinx.dev):** my Next.js, React, and TypeScript portfolio, bringing cinematic artwork and interactive 3D together with readable project notes and motion controls.
 
 ## The creative side of the system
