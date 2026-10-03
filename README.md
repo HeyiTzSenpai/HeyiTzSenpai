@@ -1,37 +1,44 @@
-# Jhinx, after hours.
+# Jhinx Dev
 
-![A painted fantasy observatory with modern creator tools, warm lanterns and a violet city beyond](assets/atelier.webp)
+**Websites. Practical automation. Connected tools.**
 
-I'm Yas, a developer and designer in Montréal. I make distinctive websites, build useful software, and explore how motion can make an interface feel more considered.
+![A website interface flows through structured data into connected modules, representing web development, automation and API integrations.](assets/connected-craft.png)
 
-**[Jhinx Design](https://design.jhinx.dev)** is my web-design practice. I design and build websites for businesses, products, and creative projects, with clear journeys, responsive layouts, and purposeful motion. Based in Montréal, working in English and French.
+I'm Yas, a developer and designer in Montréal. I build thoughtful web experiences, tools that make repetitive work easier, and small integrations that connect systems. My current work brings those three areas together, with a focus on clear scope, useful documentation and a handoff you can understand.
 
-[Explore the design portfolio](https://design.jhinx.dev) · [Tell me about your project](https://design.jhinx.dev/#/contact) · [My personal website](https://jhinx.dev) · [YouTube](https://www.youtube.com/@JhinxDev)
+[Design portfolio](https://design.jhinx.dev/) · [Upwork](https://www.upwork.com/freelancers/jhinxdev) · [Fiverr](https://www.fiverr.com/jhinxdev) · [Personal website](https://jhinx.dev/)
 
-## Websites with a point of view
+## 01 / Web development & motion
 
-The portfolio includes six original concept websites: commerce, creative workflow software, studios, and hospitality. They're working demonstrations of design and frontend interactions, with their simulated shopping, booking, and approval boundaries made clear.
+Responsive business websites, landing pages and interactive product experiences. I care about typography, useful navigation, phone layouts and purposeful motion, as well as what happens after the first impression.
 
-I pay attention to what happens after the first impression: readable content, keyboard access, phone layouts, reduced-motion preferences, loading performance, and the details of forms and navigation. Hosting setup, handover, and ongoing support are scoped to each project.
+**[Jhinx Design](https://design.jhinx.dev/)** brings together original concept websites across products, software, creative studios and hospitality. Explore [Roam Press, a product website](https://design.jhinx.dev/demos/roam/) or [Morrow, a SaaS concept](https://design.jhinx.dev/demos/morrow/). These are personal demonstrations; shopping, booking and approval interactions are simulated where stated.
 
-Have something in mind? [Send a brief in English or French](https://design.jhinx.dev/#/contact).
+I'm also exploring more immersive 3D product storytelling. New experiments stay separate from the published portfolio until they are ready to show.
 
-## Selected software and experiments
+## 02 / Practical automation & business tools
 
-- **[North Star Studio](https://jhinx.dev/projects/northstar-lab):** a private review app built with Next.js and SQLite. It brings versions, visual work, and decisions together, with approvals tied to the version reviewed. [Public preview](https://northstar-preview.jhinx.dev) · [Workflow guide](https://northstar-docs.jhinx.dev).
-- **[Omakase](https://jhinx.dev/projects/omakase):** a Python/FastAPI recommendation app connecting watch history, personal taste, and model-provider APIs. The public counter accepts a visitor's own model key; invited accounts have a separate persistence boundary. [Try it](https://omakase.jhinx.dev).
+CSV cleanup, repeatable reporting, editable Excel dashboards and tools that turn a defined input into a useful result. I favour a bounded project with explicit calculation rules, validation and an update guide, so the person receiving it can operate it.
 
-## How I build
+**Northline Supply** is my current synthetic business-tools demonstration: a sales dashboard and an inventory/reorder planner. The Excel workbooks have passed 22 native Windows Excel checks. Their browser previews are separate implementations, not live views of workbook edits. The public presentation is still being prepared.
 
-I use TypeScript, React, Next.js, Python, and tools suited to the work. Codex and Claude Code help me research, implement, test, and iterate. I stay responsible for the design direction, implementation decisions, and final result.
+The aim is a maintainable handoff. New data sources, live integrations and ongoing operations need their own scope.
 
-I break work into bounded tasks, review changes, and verify behavior in the browser or on the running service. The aim is reliable work with clear ownership, useful documentation, and an honest account of what has actually been tested.
+## 03 / API integrations & MCP
 
-## Beyond the screen
+Small API connections, webhook mapping and read-only Model Context Protocol (MCP) adapters for AI tools. My public examples make the input, permitted actions, failure cases and limitations inspectable.
 
-I maintain a [homelab](https://jhinx.dev/services) with Docker and Proxmox, where deploying and operating software is part of the learning. Away from the work: university, anime, music, and a song that probably deserves one more repeat.
+- **[Webhook Contract Repair](https://github.com/JhinxDev/webhook-contract-repair)** reproduces a rejected payload, fixes validation and mapping, and verifies the result over local HTTP. Includes 17 tests and Windows/Ubuntu CI.
+- **[Scoped Support MCP](https://github.com/JhinxDev/scoped-support-mcp)** connects two read-only MCP tools to a synthetic support API, with tenant filtering, minimized responses and bounded failures. Includes 15 tests and Windows/Ubuntu CI.
 
-[Life lately](https://jhinx.dev/now) · [AniList](https://anilist.co/user/HeyiTzSenpai)
+Both are AI-assisted personal case studies with synthetic data, not paid client deployments. Their documentation explains the production capabilities they do not cover.
 
-`TypeScript` · `React` · `Next.js` · `Python` · `FastAPI` · `SQLite` · `Docker` · `Proxmox`
+## How I work
 
+I use AI-assisted tools to research, prototype, implement and iterate. I direct the work, review the changes and remain responsible for checking the result. AI restrictions, data handling, acceptance checks and support boundaries are agreed before a client project begins.
+
+My working toolkit includes React, TypeScript, JavaScript, Python, Node.js and Excel. I choose tools around the problem rather than promising one stack for everything.
+
+I'm pursuing a Bachelor of Computer Science at Concordia University, with graduation expected in 2027. I work in English and French.
+
+**Have a defined project in mind?** [Start a conversation on Upwork](https://www.upwork.com/freelancers/jhinxdev) or [visit my Fiverr profile](https://www.fiverr.com/jhinxdev).
